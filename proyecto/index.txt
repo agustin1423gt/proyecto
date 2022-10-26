@@ -1,0 +1,3 @@
+El nombre del proyecto: Asitencia Escolar
+
+Descripcion del proyecto: Es una aplicacion escolar para tomar la asistencia que facilita el tema del orden y el tiempo va destinado a los alumnos 
